@@ -1,0 +1,31 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "This is a great sreamt",
+      "id": 1
+    },
+    {
+      "title": "Other Stream",
+      "description": "Here is another stream",
+      "id": 2
+    },
+    {
+      "title": "Bartosz's first stream",
+      "description": "Hello this is my new stream",
+      "userId": "114746130614834249755",
+      "id": 3
+    },
+    {
+      "title": "My push stream",
+      "description": "testing programmatic editted",
+      "id": 4
+    },
+    {
+      "title": "Next stream",
+      "description": "It's so difficult...",
+      "userId": "114746130614834249755",
+      "id": 6
+    }
+  ]
+}

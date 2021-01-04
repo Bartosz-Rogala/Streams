@@ -1,0 +1,1 @@
+A simple application for creating, editing and deleting streams
